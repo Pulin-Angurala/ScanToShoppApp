@@ -17,9 +17,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## To run the App:
-
--------------------------------------- Install Flutter ---------------------------------------------
+## Run the App:
 
 Step 1:
 - To install flutter, please follow the link (https://flutter.dev/docs/get-started/install).
@@ -35,7 +33,7 @@ Step 3:
 
 Note: Run the main.dart file to run the app
 
---------------------------------------- Use the App ------------------------------------------------
+## Use the App
 
 Step 1: Sign up for an account by clicking the sign up button and fill in all required fields.
 
@@ -55,8 +53,7 @@ Step 7: To checkout and make payment, click the "checkout" button.
 Step 8: Click paypal option and sign in with paypal account or choose to pay with card.
 
 
-
--------------------------------------------- Log out -----------------------------------------------
+## Log out
 
 Step 1: Click the person icon on the home screen on the top right
 
