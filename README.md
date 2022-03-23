@@ -1,4 +1,4 @@
-# myapp
+# ScanToShopApp
 
 NOTE: Checkout the Wiki to see image previews of the latest version of the App!
 
