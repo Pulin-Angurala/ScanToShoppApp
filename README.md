@@ -1,5 +1,7 @@
 # myapp
 
+NOTE: Checkout the Wiki to see image previews of the latest version of the App!
+
 A new Flutter project.
 
 ## Getting Started
@@ -16,9 +18,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-To run the App:
-
 Scan to Shop App
+
+To run the App:
 
 -------------------------------------- Install Flutter ---------------------------------------------
 
