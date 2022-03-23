@@ -32,7 +32,7 @@ Step 2:
 Step 3:
 - Follow the link to learn how to run the app on an android emulator (https://developer.android.com/studio/run/emulator)
 - For best results, use a Nexus 6 API 30 as an emulator, but are welcome to use any other android device as as emulator
-- It is reccommended that you connect an android phone to compile the app on as it provide the ability to scan the barcodes in real time! running a           simulator will not let you scan a barcode!
+- It is reccommended that you connect an android phone to compile the app on as it will provide the ability to scan the barcodes in real time! running a     simulator will not let you scan a barcode!
 
 Note: Run the main.dart file to run the app
 
