@@ -17,7 +17,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Run the App:
+## Run the App
 
 Step 1:
 - To install flutter, please follow the link (https://flutter.dev/docs/get-started/install).
