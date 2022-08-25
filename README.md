@@ -2,12 +2,6 @@
 
 NOTE: Checkout the Wiki to see image previews of the latest version of the App!
 
-
-The Scan to Shop (STS) application, a software system that brings checkout functionality to smartphones for users to grab and purchase their goods at grocery stores, in real time. The STS application uses smartphone cameras to scan item barcodes and obtain item data from a cloud database. These scanned items as well as their information is displayed to the user and can be added to their shopping trolley on the application. At the end of their shopping session, users are able to checkout their shopping trolley via online payment. 
-
-All receipts for transactions made through the application are generated and stored on a cloud database. Each user is made a database account, where their transactional documents, information and data are kept separate and organised. Users are able to access their records through the application, receiving a completion collection of all their transaction receipts. 
-
-
 ![image](https://user-images.githubusercontent.com/60497439/186651953-e49bd8dd-98ad-4a1a-b9f1-e96eba0b77d4.png)
 
 
